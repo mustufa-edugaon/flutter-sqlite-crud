@@ -119,7 +119,7 @@ class _HomeScreenAppState extends State<HomeScreenApp> {
           top: 30,
           left: 15,
           right: 15,
-          bottom: MediaQuery.of(context).viewInsets.bottom + 50,
+          bottom: MediaQuery.of(context).viewInsets.bottom + 60,
         ),
         child: Column(
           mainAxisSize: MainAxisSize.min,
